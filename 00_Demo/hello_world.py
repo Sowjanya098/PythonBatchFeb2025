@@ -25,7 +25,6 @@ def wishes(name):
     wish = "How are you {0}?".format(name)
     print(wish)
 
-
 wishes("Udhay")
 
 
